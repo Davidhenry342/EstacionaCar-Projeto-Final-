@@ -4,7 +4,7 @@ Alunos:
 
 -Lucas Elias
 
--David henry
+-David Henry
 
 -João Vitor Branquinho 
 
